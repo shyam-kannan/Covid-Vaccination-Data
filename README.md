@@ -1,1 +1,2 @@
 # Covid-Vaccination-Data
+Created an app that takes in covid vaccination data from a csv file and displays it in a table. User is able to add new data points and visualize the data through a bar and pie graph. The data includes first name, last name, location, vaccine name, id, and date of each person. Front-end was developed using Java swing library whereas the backend was where the controller and user functionality was implemented. UML diagrams were used to document progress as well as Use case diagrams
